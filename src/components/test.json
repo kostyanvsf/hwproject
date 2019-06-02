@@ -1,0 +1,27 @@
+{
+  "listingId": "1",
+  "pictureUrl": "https://a0.muscache.com/im/pictures/44620/5a5815c6_original.jpg?aki_policy=large",
+  "name": "Beautiful Room & House 1",
+  "description": "",
+  "price": 100,
+  "hostName": "",
+  "accomodates": 2,
+  "beds": 1,
+  "bathrooms": 1,
+  "reviewScoreRating": 90,
+  "title": "json-server",
+  "cancellationPolicy": "Free cancellation within 30 days of booking date",
+  "amenities": "AC",
+  "city": "San Jose",
+  "state": "CA",
+  "comments": [
+    {
+      "reviewId": "1",
+      "review": "Beautiful house!!!"
+    },
+    {
+      "reviewId": "2",
+      "review": "Host was rude"
+    }
+  ]
+}
